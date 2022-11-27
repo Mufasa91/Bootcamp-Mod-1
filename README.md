@@ -1,6 +1,6 @@
 # Code Refactor Module 1 Challenge: Business Marketing Strategy
 
-## Decription
+## Description
 
 For this module, I was tasked with debugging the codebase for a marketing agency.
 
@@ -11,6 +11,8 @@ For this module, I was tasked with debugging the codebase for a marketing agency
 * Logical structure of HTML elements independent of styling and positioning
 * Image elements contain accessible alt attributes
 * Heading attributes fall in sequential order
+
+The client has requested a landing page that is optimized for search engines and follows accessibility standards.
 
 ### Work Completed
 
@@ -24,12 +26,11 @@ For this module, I was tasked with debugging the codebase for a marketing agency
 * Applied the DRY principle to improve the codebase for long-term sustainability
 
 ### Website Link
-
+https://mufasa91.github.io/Bootcamp-Mod-1/
 
 ### Screenshot
 
-! [screenshot](/assets/images/Landing-page-SCREENSHOT.jpg)
+![screenshot](/assets/images/Landing-page-SCREENSHOT.jpg)
 
 ## Contact
 [Mostafa Taleb on GitHub](http://github.com/mufasa91)
-
